@@ -1,9 +1,14 @@
 ### Terraform ###
 # Local.terraform directories
 **/.terraform/*
+**/Imagens/*
 
 # .tfstate files
 *.tfstate
 *.tfstate.*
 
 *.pem
+*.gitignore
+*.feito com terraform.png
+hosts.yml
+
